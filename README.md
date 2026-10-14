@@ -47,13 +47,13 @@ Since the tracks are isolated per switch, a user only triggers one LED at a time
 ## 🖼️ Visual Showcase
 
 ### 3D Production Render (Front)
-![3D Front View](images/3d-front.png)
+![3D Front View](front.png)
 
 ### 3D Production Render (Back & Gold Traces)
-![3D Back View](images/3d-back.png)
+![3D Back View](back.png)
 
 ### EasyEDA Layout Mapping
-![PCB Layout Grid](images/pcb-layout.png)
+![PCB Layout Grid](layout-map.png)
 
 ---
 
